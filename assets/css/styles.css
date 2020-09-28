@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: "atheneregular";
-  src: url("athene.woff2") format("woff2"),
-    url("athene.woff") format("woff");
+  src: url("../fonts/Athene.woff2") format("woff2"),
+    url("../fonts/Athene.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
