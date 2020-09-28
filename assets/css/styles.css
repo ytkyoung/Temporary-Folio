@@ -51,7 +51,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 62.5%;
   margin: 0 auto;
-  width: 90rem;
+  /* width: 90rem; --> für pixelgenau */
   animation: opening 1s ease-in-out;
 }
 
@@ -75,7 +75,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-  width: 90rem;
+  /* width: 90rem; für pixelgenau*/
   border-bottom: 1px solid #002a5a;
   z-index: 20;
 }
